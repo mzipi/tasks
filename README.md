@@ -1,7 +1,7 @@
 # Proyecto de Tareas
 
 ## Descripción
-Este es un proyecto de gestión de tareas que permite a los usuarios crear y eliminar tareas de manera eficiente. La aplicación está diseñada para ser intuitiva y fácil de usar.
+Una aplicación de tareas minimalista diseñada para cubrir mis propias necesidades. Simple, funcional y sin distracciones.
 
 ## Características
 - Crear nuevas tareas
